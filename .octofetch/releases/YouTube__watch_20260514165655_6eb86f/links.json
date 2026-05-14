@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5038",
+  "folder": "YouTube__watch_20260514165655_6eb86f",
+  "base_name": "LI25hU-r3Xw_LI25hU-r3Xw_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-3/releases/tag/co-releases-v1-5038",
+  "files": [
+    {
+      "name": "LI25hU-r3Xw_LI25hU-r3Xw_1080p.mp4",
+      "url": "https://github.com/alidark13/Cloud-Downloads-3/releases/download/co-releases-v1-5038/LI25hU-r3Xw_LI25hU-r3Xw_1080p.mp4",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-3/releases/assets/420317698",
+      "id": 420317698,
+      "size": 1075893874,
+      "download_count": 0
+    }
+  ]
+}
