@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9541",
+  "folder": "Other__view_video_20260515072302_10bd9d",
+  "base_name": "Other__view_video_20260515072302_10bd9d.php",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-3/releases/tag/co-releases-v1-9541",
+  "files": [
+    {
+      "name": "Other__view_video_20260515072302_10bd9d.php",
+      "url": "https://github.com/alidark13/Cloud-Downloads-3/releases/download/co-releases-v1-9541/Other__view_video_20260515072302_10bd9d.php",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-3/releases/assets/420823126",
+      "id": 420823126,
+      "size": 375913,
+      "download_count": 0
+    }
+  ]
+}
