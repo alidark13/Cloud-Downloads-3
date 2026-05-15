@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9748",
+  "folder": "YouTube__watch_20260515095010_e5b36c",
+  "base_name": "1TqUcacyUyQ_1TqUcacyUyQ_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-3/releases/tag/co-releases-v1-9748",
+  "files": [
+    {
+      "name": "1TqUcacyUyQ_1TqUcacyUyQ_1080p.mp4",
+      "url": "https://github.com/alidark13/Cloud-Downloads-3/releases/download/co-releases-v1-9748/1TqUcacyUyQ_1TqUcacyUyQ_1080p.mp4",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-3/releases/assets/420903998",
+      "id": 420903998,
+      "size": 593807078,
+      "download_count": 0
+    }
+  ]
+}
